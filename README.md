@@ -1,4 +1,4 @@
-## Hi there 👋
+## Привіт, тут файли з пайтон проекту з практичної роботи по докеру. Також в СДО я завантажив звіт файлом документи або можете відкрити звіт в гугл документі 👋
 
 <!--
 **ondrzhei-pishtiek/Ondrzhei-Pishtiek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
