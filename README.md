@@ -1,4 +1,4 @@
-## Hi there 👋
+## 9 практична. Реалізовано все що вимагалось, звіт є в СДО в форматі файлу або посилання на гугл документ. Тут на ґіті є всі файли проєкту пайтон. В звіті є все, що вам потрібно побачити чи прочитати. Бажаю швидкої перевірки 👋
 
 <!--
 **ondrzhei-pishtiek/Ondrzhei-Pishtiek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
