@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Список питань</title>
+</head>
+<body>
+    <h1>Список питань</h1>
+    <ul>
+        {% for question in questions %}
+            <li>{{ question.question_text }} - Опубліковано: {{ question.pub_date }}</li>
+        {% endfor %}
+    </ul>
+
+    <a href="{% url 'register' %}">Зареєструватися</a>
+</body>
+</html>
