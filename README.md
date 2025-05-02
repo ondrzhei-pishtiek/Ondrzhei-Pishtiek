@@ -1,5 +1,7 @@
 ## Привіт👋. У нас є сторінка зі списком питань: http://127.0.0.1:8000/polls/  сторінка з реєстрацією http://127.0.0.1:8000/register/ та адмін панель http://127.0.0.1:8000/admin/ Все виконано і все працює. Заберіть енку, будь ласка )))
 
+## <i>skxlpv: Я аж був змушений fork зробити проєкту, бо знатно хрюкнув з опису XD</i>
+
 <!--
 **ondrzhei-pishtiek/Ondrzhei-Pishtiek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
